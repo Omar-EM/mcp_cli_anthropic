@@ -69,6 +69,12 @@ pip install anthropic python-dotenv prompt-toolkit "mcp[cli]==1.8.0"
 python main.py
 ```
 
+4. Debug/Test MCP server, run the inspector using mcp-cli
+
+```bash
+mcp dev mcp_server.py
+```
+
 ## Usage
 
 ### Basic Interaction
